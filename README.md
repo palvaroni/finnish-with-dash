@@ -1,2 +1,3 @@
-# finnish-with-dash
-Custom keyboard layout for Windows 10
+# Finnish with Dash
+Custom keyboard layout for Windows 10.
+Based on Finnish keyboard layout.
